@@ -67,18 +67,21 @@
                             <td>Yuzvendra Chahal</td>
                             <td id="score_yuzvendra_chahal">1.94</td>
                         </tr> </tbody></table>
+                        <h5>Table:-Output of probablity table<h5>
+  <hr>               </hr>
                         
  ![image](https://user-images.githubusercontent.com/49801313/118794599-5df81f00-b8b7-11eb-8245-380fe7b1c7c9.png)
  ![image](https://user-images.githubusercontent.com/49801313/118792834-a9113280-b8b5-11eb-97b1-9349e7a91034.png)
  ![image](https://user-images.githubusercontent.com/49801313/118792998-ce05a580-b8b5-11eb-923f-b272636c64f7.png)
- ![image](https://user-images.githubusercontent.com/49801313/118793146-f55c7280-b8b5-11eb-8a21-2fca561df2d4.png)
+ 
+ <hr>               </hr>
  
  
  <h3>As seen from above we split the data into train_size(0.25)and test size(0.75) and then fit that into the pipeline after which we get the accuracy as 0.49 which is good          considering the fact we have not used any Neural Networks.After that we caclulate the f1-score for each of the players and we get a f1-score of around (0.3-0.8)range which      is a good one.After that we test the model built different algorithhms like SVM,Logistic Regression and Random Forest Classifier.However finally we conclude that svm and        logistic regression are two of the best contenders for the final algorithm to be chosed.Finally I decided to chose the SVM for further classification purposes because of        the higher score given by it after the testing it with the Y_test and x_test.<h3>
 
 
 <h2>Installation instructions</h2>
-
+<hr>                     </hr>
 <h4>Open project in pyCharm or any IDE</h4> 
 <h4>First go to project directory</h4> 
 <h4>python3 server.py(Run the program)</h4> 
