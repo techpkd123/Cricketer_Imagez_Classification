@@ -70,10 +70,11 @@
                         
                         
   
-##Installation instructions
-# First go to project directory
-# Open project in pyCharm or any IDE 
-# python3 server.py(Run the program)
-# Open app.html
-# And just select an image and click on Classify
-# After that you can see the results.
+#Installation instructions
+
+Open project in pyCharm or any IDE 
+First go to project directory
+python3 server.py(Run the program)
+Open app.html
+And just select an image and click on Classify
+After that you can see the results.
