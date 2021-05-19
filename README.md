@@ -70,7 +70,7 @@
                         
                         
   
-#Installation instructions
+<h2>Installation instructions<h2>
 
 Open project in pyCharm or any IDE 
 First go to project directory
