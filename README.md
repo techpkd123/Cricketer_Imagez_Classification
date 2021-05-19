@@ -77,7 +77,8 @@
  <hr>               </hr>
  
  
- <h3>As seen from above we split the data into train_size(0.25)and test size(0.75) and then fit that into the pipeline after which we get the accuracy as 0.49 which is good          considering the fact we have not used any Neural Networks.After that we caclulate the f1-score for each of the players and we get a f1-score of around (0.3-0.8)range which      is a good one.After that we test the model built different algorithhms like SVM,Logistic Regression and Random Forest Classifier.However finally we conclude that svm and        logistic regression are two of the best contenders for the final algorithm to be chosed.Finally I decided to chose the SVM for further classification purposes because of        the higher score given by it after the testing it with the Y_test and x_test.<h3>
+ <h3>As seen from above we split the data into train_size(0.25)and test size(0.75) and then fit that into the pipeline after which we get the accuracy as 0.49 which is good          considering the fact we have not used any Neural Networks.I have chosen random parameters for the funcrions just in order to test the accuracies.After that we caclulate the      f1-score for each of the players and we get a f1-score of around (0.3-0.8)range which is a good one.After that we test the model with different algorithhms like    
+     SVM,Logistic Regression and Random Forest Classifier.However finally we conclude that svm and logistic regression are two of the best contenders for the final algorithm to      be chosed.Finally I decided to chose the SVM for further classification purposes because of the higher score given by it after the testing it with the Y_test and x_test<h3>
 
 
 <h2>Installation instructions</h2>
