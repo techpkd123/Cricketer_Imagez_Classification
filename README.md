@@ -69,7 +69,11 @@
                         </tr> </tbody></table>
                         
                         
-  
+![image](https://user-images.githubusercontent.com/49801313/118792834-a9113280-b8b5-11eb-97b1-9349e7a91034.png)
+![image](https://user-images.githubusercontent.com/49801313/118792998-ce05a580-b8b5-11eb-923f-b272636c64f7.png)
+![image](https://user-images.githubusercontent.com/49801313/118793146-f55c7280-b8b5-11eb-8a21-2fca561df2d4.png)
+
+
 <h2>Installation instructions</h2>
 
 <h4>Open project in pyCharm or any IDE</h4> 
