@@ -67,3 +67,13 @@
                             <td>Yuzvendra Chahal</td>
                             <td id="score_yuzvendra_chahal">1.94</td>
                         </tr> </tbody></table>
+                        
+                        
+  
+#Installation instructions
+## First go to project directory
+## Open project in pyCharm or any IDE 
+## python3 server.py(Run the program)
+## Open app.html
+## And just select an image and click on Classify
+## After that you can see the results.
